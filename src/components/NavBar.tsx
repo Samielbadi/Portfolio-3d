@@ -66,7 +66,7 @@ export const NavBar: React.FC = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Sami El badi
+              Fortfolio VII
             </motion.div>
             
             <div className="hidden md:block">
