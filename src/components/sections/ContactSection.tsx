@@ -85,19 +85,19 @@ export const ContactSection: React.FC = () => {
     { 
       icon: <Mail size={24} className="text-blue-600 dark:text-blue-400" />, 
       title: "Email", 
-      content: "sami@example.com",
-      link: "mailto:sami@example.com"
+      content: "samielbadi@gmail.com",
+      link: "mailto:samielbadi@gmail.com"
     },
     { 
       icon: <Phone size={24} className="text-blue-600 dark:text-blue-400" />, 
       title: "Phone", 
-      content: "+1 (123) 456-7890",
-      link: "tel:+11234567890"
+      content: "+212 634647648",
+      link: "tel:+212 634647648 "
     },
     { 
       icon: <MapPin size={24} className="text-blue-600 dark:text-blue-400" />, 
       title: "Location", 
-      content: "San Francisco, CA",
+      content: "Meknes, Morocco",
       link: null
     }
   ];
